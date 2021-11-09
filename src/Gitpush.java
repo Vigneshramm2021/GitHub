@@ -1,12 +1,13 @@
 
 public class Gitpush {
 
-	public static void name() {
-		System.out.println("Vicky");
+	public void pp() {
+		System.out.println("pp");
 	}
 
 	public static void main(String[] args) {
-		name();
+		Gitpush ref = new Gitpush();
+		ref.pp();
 	}
 
 }
